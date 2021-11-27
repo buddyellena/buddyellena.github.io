@@ -35684,22 +35684,22 @@ a.u-link.u-text-hover-grey-90:hover {
   }
 }
 @media (max-width: 991px) {
+  .u-header .u-menu-1 {
+    width: auto;
+    margin-top: 6px;
+  }
+
   .u-header .u-text-1 {
-    margin-top: -30px;
-    margin-bottom: 7px;
+    margin-top: -32px;
+    margin-bottom: 4px;
   }
 }
 @media (max-width: 767px) {
-  .u-header .u-text-1 {
-    margin-top: -30px;
+  .u-header .u-menu-1 {
+    margin-top: 6px;
   }
 }
-@media (max-width: 575px) {
-  .u-header .u-text-1 {
-    margin-top: -30px;
-    margin-bottom: 7px;
-  }
-}
+
  .u-footer {
   background-image: none;
 }
